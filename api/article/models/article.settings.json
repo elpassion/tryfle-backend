@@ -35,6 +35,11 @@
     "content": {
       "type": "richtext",
       "required": true
+    },
+    "tags": {
+      "collection": "tag",
+      "via": "articles",
+      "dominant": true
     }
   }
 }
