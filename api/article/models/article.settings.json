@@ -40,6 +40,10 @@
       "collection": "tag",
       "via": "articles",
       "dominant": true
+    },
+    "authors": {
+      "via": "articles",
+      "collection": "author"
     }
   }
 }
